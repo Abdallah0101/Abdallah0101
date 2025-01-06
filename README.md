@@ -1,4 +1,4 @@
-<h1 align="center" style="color: white;">👋 Hello | Olá | مرحبًا | Hallo!</h1>
+<h1 align="center">👋 Hello | Olá | مرحبًا | Hallo!</h1>
 
 <p align="center">
   <a href="https://github.com/Abdallah0101">
@@ -28,4 +28,4 @@
 
 ---
 
-<h3 align="center" style="color: white;">🤝 Let's Connect and Build Something Amazing Together!</h3>
+<h3 align="center">🤝 Let's Connect and Build Something Amazing Together!</h3>
