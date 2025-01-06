@@ -15,7 +15,6 @@
 - **Degree**: Bachelor of Software Engineering (2021-2024) - University North of Paraná, Brazil 
 - **Languages**: Arabic, Portuguese, English, German
 
-
 ## 💻 Technical Stack
 
 <div align="center">
@@ -39,12 +38,16 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-
 ## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdallah0101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah0101&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+### 📈 GitHub Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdallah0101&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph">
 </div>
 
 ---
