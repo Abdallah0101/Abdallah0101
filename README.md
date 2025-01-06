@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FD1&center=true&vCenter=true&width=435&lines=Software+Engineer;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FD1&center=true&vCenter=true&width=435&lines=Software+Engineer;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -41,9 +41,9 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdallah0101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah0101&layout=compact&langs_count=7&theme=tokyonight"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdallah0101&theme=tokyo-night&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdallah0101&theme=tokyo-night&hide_border=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdallah0101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah0101&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
