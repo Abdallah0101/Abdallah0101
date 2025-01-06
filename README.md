@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-- **Degree**: Bachelor of Software Engineering (2021-2024, Expected) - University North of Paraná, Brazil  
+- **Degree**: Bachelor of Software Engineering (2021-2024) - University North of Paraná, Brazil  
 - **Languages**: Arabic, Portuguese, English, German
 
 <p align="center">
