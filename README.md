@@ -12,7 +12,7 @@
 <div align="center">
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&duration=3000&pause=1000&color=6EA3D4&center=true&vCenter=true&width=435&lines=%3C+I'm+Abdallah+%2F%3E;%3C%F0%9F%92%BB+Software+Engineer+%2F%3E" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&duration=3000&pause=1000&color=6EA3D4&center=true&vCenter=true&width=435&lines=%3C+I'm+Abdalla+%2F%3E;%3C%F0%9F%92%BB+Software+Engineer+%2F%3E" alt="Typing SVG">
   </a>
   <br>
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100" alt="Waving Hand">
