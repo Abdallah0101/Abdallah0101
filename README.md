@@ -1,63 +1,78 @@
 # 👋 Hello, I'm Abdullah A. Shafy!
 
-### 🌟 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=Abdallah0101&color=blue&style=flat-square)
+
+## 🌟 About Me
 - 🖥️ **Software Engineer** | 🎓 Bachelor of Software Engineering (2021–2025, Unopar - Brazil)
-- 🚀 Passionate about backend development, RESTful APIs, and problem-solving with cutting-edge technologies.
 - 🌍 Fluent in **Arabic**, **Portuguese**, and **English**.
+- 🚀 Passionate about **backend development**, **RESTful APIs**, and **building scalable systems**.
 
 ---
 
-### 🔨 Skills and Projects
-
-#### **C++**
-- **Banking System** (Console):  
-  Application for managing banking accounts with features like account creation, deposits, withdrawals, and statement generation.
-
-#### **C#**
-- **Driving License Management System** (Desktop):  
-  System for managing driver’s license registrations, renewals, and validations.
-
-#### **Java**
-- **Library Management Application** (Web):  
-  A system enabling user registration, book reservations, and account management.
-
-#### **JavaScript & Python**
-Building scalable and efficient solutions with modern frameworks and tools.
+## 💼 Skills & Expertise
+### 💻 Programming Languages
+- **C++**, **C#**, **Java**, **Python**, **JavaScript**
+  
+### 🛠️ Tools & Technologies
+- **Frameworks:** Spring Boot, Flask, .NET  
+- **Databases:** PostgreSQL, MySQL, SQL Server  
+- **Version Control:** Git & GitHub  
+- **Others:** Docker, RESTful API Design, OOP Principles
 
 ---
 
-### 💻 Technical Expertise
-- **Backend Development:** RESTful API design, database integration (CRUD operations).  
-- **Data Structures & Algorithms:** Solid understanding of OOP principles and design patterns.  
-- **Databases:** MySQL, SQL Server, PostgreSQL.  
-- **Version Control:** Git & GitHub.  
-- **Frameworks & Tools:** Spring Boot, Flask, .NET, Docker.
+## 🚀 Featured Projects
+- **C++ Banking System**  
+  A console application for managing banking accounts, including account creation, deposits, withdrawals, and statement generation.
+
+- **C# Driving License Management System**  
+  A desktop application for managing driver’s license registrations, renewals, and validations.
+
+- **Java Library Management Application**  
+  A web-based system enabling user registration, book reservations, and account management.
 
 ---
 
-### 📂 Professional Experience
-- Proficient in developing and deploying backend systems with a focus on clean code and maintainability.  
-- Experienced in leading and contributing to projects involving database design, API integration, and system optimization.
+## 📊 GitHub Stats & Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdallah0101&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah0101&layout=compact&theme=radical" alt="Top Languages" height="150">
+</div>
 
 ---
 
-### 🛠️ Tools & Workflow
-- **Coding Standards:** Clean, efficient, and scalable code practices.  
-- **Development Tools:** Cmder, GitHub, and other professional environments.  
-- **Soft Skills:** Quick learner, adaptive to challenges, and a strong communicator.
+## 🔥 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdallah0101&theme=radical" alt="Contribution Graph" />
+</div>
 
 ---
 
-### 📈 GitHub Stats
-![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdallah0101&show_icons=true&theme=radical)
+## 📈 Metrics & Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdallah0101&theme=radical&margin-w=15&row=1" alt="Trophies">
+</div>
 
 ---
 
-### 📞 Connect With Me!
-- [**LinkedIn**](https://linkedin.com/in/abdallahshafy)  
-- [**Email**](mailto:abdallahtechm05@gmail.com)
+## 📂 Professional Experience
+- Proficient in **backend development**, focusing on clean code and maintainable architectures.
+- Experienced in **database design**, **API integration**, and **system optimization**.
 
 ---
 
-### 🌟 Closing Note
-I strive to design and develop impactful software solutions, continuously learning and adapting to industry standards. Let’s connect and create something amazing together!
+## 🛠️ Tools & Workflow
+- **Coding Standards:** Writing efficient, scalable, and clean code.  
+- **Development Tools:** Cmder, GitHub, and professional coding environments.  
+- **Soft Skills:** Quick learner, adaptive to challenges, and an excellent communicator.
+
+---
+
+## 📞 Let's Connect
+- 🌐 [**LinkedIn**](https://linkedin.com/in/abdallahshafy)  
+- 📧 [**Email**](mailto:abdallahtechm05@gmail.com)  
+
+---
+
+## 🌟 Fun Fact
+I am always exploring new technologies and love contributing to open-source projects. Let's collaborate and build something impactful together!
