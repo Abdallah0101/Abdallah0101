@@ -18,8 +18,6 @@
 - **Degree**: Bachelor of Software Engineering (2021-2024, Expected) - University North of Paraná, Brazil
 - **Languages**: Arabic, Portuguese, English, German
 
-## 📊 GitHub Analytics
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdallah0101&theme=tokyo-night&hide_border=true" alt="Activity Graph">
 </p>
