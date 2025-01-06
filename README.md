@@ -1,19 +1,50 @@
-# 👋 Hello, I'm Abdullah! 
+# 👋 Hello, I'm Abdullah A. Shafy!
 
-### 🌍 About Me
-- 🖥️ **Software Engineer** | 💡 **Innovator** | 🎓 **Lifelong Learner**
-- 🔭 Currently learning: **React.js**, **PostgreSQL**, and **Backend Development**
-- 💼 Passionate about **Fintech**, **Machine Learning**, and building impactful solutions
-- 🌟 Always curious, always growing 🌱 
+### 🌟 About Me
+- 🖥️ **Software Engineer** | 🎓 Bachelor of Software Engineering (2021–2025, Unopar - Brazil)
+- 🚀 Passionate about backend development, RESTful APIs, and problem-solving with cutting-edge technologies.
+- 🌍 Fluent in **Arabic**, **Portuguese**, and **English**.
 
 ---
 
-### ⚙️ My Skills
-| 💻 Languages       | 📚 Frameworks & Tools           | 🌐 Databases  |
-|--------------------|---------------------------------|---------------|
-| C++, C#, Python    | React.js, Spring Boot          | PostgreSQL    |
-| Java, JavaScript   | ASP.NET, WebFlux               | MySQL         |
-| HTML, CSS          | Git, Docker                    | Firebase      |
+### 🔨 Skills and Projects
+
+#### **C++**
+- **Banking System** (Console):  
+  Application for managing banking accounts with features like account creation, deposits, withdrawals, and statement generation.
+
+#### **C#**
+- **Driving License Management System** (Desktop):  
+  System for managing driver’s license registrations, renewals, and validations.
+
+#### **Java**
+- **Library Management Application** (Web):  
+  A system enabling user registration, book reservations, and account management.
+
+#### **JavaScript & Python**
+Building scalable and efficient solutions with modern frameworks and tools.
+
+---
+
+### 💻 Technical Expertise
+- **Backend Development:** RESTful API design, database integration (CRUD operations).  
+- **Data Structures & Algorithms:** Solid understanding of OOP principles and design patterns.  
+- **Databases:** MySQL, SQL Server, PostgreSQL.  
+- **Version Control:** Git & GitHub.  
+- **Frameworks & Tools:** Spring Boot, Flask, .NET, Docker.
+
+---
+
+### 📂 Professional Experience
+- Proficient in developing and deploying backend systems with a focus on clean code and maintainability.  
+- Experienced in leading and contributing to projects involving database design, API integration, and system optimization.
+
+---
+
+### 🛠️ Tools & Workflow
+- **Coding Standards:** Clean, efficient, and scalable code practices.  
+- **Development Tools:** Cmder, GitHub, and other professional environments.  
+- **Soft Skills:** Quick learner, adaptive to challenges, and a strong communicator.
 
 ---
 
@@ -22,36 +53,11 @@
 
 ---
 
-### 📂 Highlighted Projects
-- 🚀 [**Banking System in C++**](#)  
-  A secure and efficient banking system designed for practical learning and real-world applications.
-  
-- 🌐 [**E-Commerce Platform**](#)  
-  A multi-platform e-commerce solution for vendors and customers.
-
-- 📱 [**Family Android Game**](#)  
-  Interactive and fun game designed for kids with personalized family content.
+### 📞 Connect With Me!
+- [**LinkedIn**](https://linkedin.com/in/abdallahshafy)  
+- [**Email**](mailto:abdallahtechm05@gmail.com)
 
 ---
 
-### 🛠️ Tools & Workflow
-- **Development Environment:** [Cmder](https://cmder.net/)
-- **Version Control:** Git & GitHub  
-- **Coding Standards:** Clean code, best practices, and concise comments.  
-
----
-
-### 📞 Let's Connect!
-- 🌐 Website: [**Comunidade Islâmica Brasileira**](#)
-- 💼 LinkedIn: [**Abdullah's LinkedIn**](#)
-- ✉️ Email: [**abdullah.email@example.com**](mailto:abdullah.email@example.com)
-
----
-
-### 🌟 Fun Fact
-I am deeply inspired by how technology can transform lives. Beyond coding, I love teaching, sharing knowledge, and exploring new horizons in the tech world.
-
----
-
-### 🧡 Thanks for visiting my profile!
-Feel free to explore my repositories and connect with me. Together, let's build something amazing! 🌟
+### 🌟 Closing Note
+I strive to design and develop impactful software solutions, continuously learning and adapting to industry standards. Let’s connect and create something amazing together!
