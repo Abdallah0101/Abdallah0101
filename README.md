@@ -43,14 +43,11 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdallah0101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah0101&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdallah0101&theme=tokyo-night&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=tokyonight&layout=compact">
-
 </div>
 
 ### 📈 GitHub Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdallah0101&theme=tokyo-night&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdallah0101&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph">
 </div>
 
 ---
