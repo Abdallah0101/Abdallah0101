@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello | Olá | مرحبًا | Hallo, I'm Abdalla!</h1>
+<h1 align="center">👋 Hello | Olá | مرحبًا | Hallo!</h1>
 
 <p align="center">
   <a href="https://github.com/Abdallah0101">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FD1&center=true&vCenter=true&width=435&lines=Software+Engineer;Always+Learning+%F0%9F%92%A1" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FD1&center=true&vCenter=true&width=435&lines=I+am+Abdalla!;Experienced+Software+Engineer" alt="Typing SVG">
 </p>
 
 ## 🚀 About Me
