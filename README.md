@@ -14,11 +14,11 @@
 
 ## 🚀 About Me
 
-Degree: Bachelor of Software Engineering (2021-2025)  
-University: Unopar, Brazil  
-Languages: Arabic, Portuguese, English  
-Specialties: Backend Development, RESTful APIs, Scalable Systems  
-Currently Learning: System Design, Microservices, Cloud Architecture  
+- **Degree**: Bachelor of Software Engineering (2021-2025)  
+- **University**: Unopar, Brazil  
+- **Languages**: Arabic, Portuguese, English  
+- **Specialties**: Backend Development, RESTful APIs, Scalable Systems  
+- **Currently Learning**: System Design, Microservices, Cloud Architecture  
 
 ## 💻 Technical Stack
 
