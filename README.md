@@ -1,25 +1,26 @@
-<div align="center">
-  
+<div style="background: linear-gradient(135deg, #2E9FD1, #6DB33F); padding: 20px; border-radius: 10px; color: white; text-align: center;">
+
 # 👋 Hello World, I'm Abdalla!
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Abdallah0101&color=blue&style=flat-square)](https://github.com/Abdallah0101)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/abdshafy/)
+
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FD1&center=true&vCenter=true&width=435&lines=Software+Engineer;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Software+Engineer;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-- **Degree**: Bachelor of Software Engineering (2021-2024)  
-- **University**: Unopar, Brazil  
+<div style="background: linear-gradient(135deg, #FFD700, #FF6347); padding: 15px; border-radius: 10px; color: white;">
+- **Degree**: Bachelor of Software Engineering (2021-2024) - University North of Paraná, Brazil 
 - **Languages**: Arabic, Portuguese, English, German
-
+</div>
 
 ## 💻 Technical Stack
 
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #8A2BE2, #5F9EA0); padding: 20px; border-radius: 10px; color: white;">
 
 ### Languages
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -44,7 +45,7 @@
 
 ## 🌟 Featured Projects
 
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #FF4500, #FFD700); padding: 20px; border-radius: 10px; color: white;">
 
 <table>
   <tr>
@@ -70,19 +71,17 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #0000CD, #4B0082); padding: 20px; border-radius: 10px; color: white;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdallah0101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah0101&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
 
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #008080, #20B2AA); padding: 20px; border-radius: 10px; color: white;">
   
 ### 🤝 Let's Connect and Build Something Amazing Together!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdallahshafy)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdallahtechm05@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdallah0101)
 
 </div>
