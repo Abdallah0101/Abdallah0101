@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello | Olá | مرحبًا | Hallo!</h1>
+<h1 align="center">👋 Hello | Olá | مرحبًا | Hallo! 👋</h1>
 
 <p align="center">
   <a href="https://github.com/Abdallah0101">
