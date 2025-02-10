@@ -26,10 +26,6 @@
 - **Languages**: Arabic, Portuguese, English, German
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdallah0101&theme=tokyo-night&hide_border=true" alt="Activity Graph">
-</p>
-
-<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdallah0101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah0101&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages">
 </p>
